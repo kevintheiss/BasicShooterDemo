@@ -1,0 +1,7 @@
+D:\Unreal Projects\BasicShooterDemo\BasicShooterDemo\Intermediate\Build\Win64\UE4Editor\Development\BasicShooterDemo\Definitions.BasicShooterDemo.h
+D:\Unreal Projects\BasicShooterDemo\BasicShooterDemo\Source\BasicShooterDemo\BasicShooterDemoGameModeBase.h
+C:\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+D:\Unreal Projects\BasicShooterDemo\BasicShooterDemo\Intermediate\Build\Win64\UE4Editor\Inc\BasicShooterDemo\BasicShooterDemoGameModeBase.generated.h

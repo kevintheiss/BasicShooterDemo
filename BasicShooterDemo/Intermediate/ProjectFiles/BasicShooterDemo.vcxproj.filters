@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\BasicShooterDemo.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{A711EC7D-E7E6-4311-980F-4B161D5D7D66}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\BasicShooterDemo.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\BasicShooterDemoEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{78969CFA-37C0-4654-8129-E573C03B79D0}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\BasicShooterDemo">
+      <UniqueIdentifier>{5D023D61-8EDC-4970-AFC6-8B48D3908AE0}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\BasicShooterDemo\BasicShooterDemo.Build.cs">
+      <Filter>Source\BasicShooterDemo</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\BasicShooterDemo\BasicShooterDemo.cpp">
+      <Filter>Source\BasicShooterDemo</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BasicShooterDemo\BasicShooterDemo.h">
+      <Filter>Source\BasicShooterDemo</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BasicShooterDemo\BasicShooterDemoGameModeBase.cpp">
+      <Filter>Source\BasicShooterDemo</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BasicShooterDemo\BasicShooterDemoGameModeBase.h">
+      <Filter>Source\BasicShooterDemo</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

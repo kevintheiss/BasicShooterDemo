@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "BasicShooterDemo",
+			"Path": "D:\\Unreal Projects\\BasicShooterDemo\\BasicShooterDemo\\Source\\BasicShooterDemo.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "BasicShooterDemoEditor",
+			"Path": "D:\\Unreal Projects\\BasicShooterDemo\\BasicShooterDemo\\Source\\BasicShooterDemoEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

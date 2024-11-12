@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-BasicShooterDemo.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Unreal Projects\BasicShooterDemo\BasicShooterDemo\Intermediate\Build\Win64\BasicShooterDemoEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\Unreal Projects\BasicShooterDemo\BasicShooterDemo\Intermediate\Build\Win64\UE4Editor\Development\BasicShooterDemo\BasicShooterDemo.cpp.obj"
+"D:\Unreal Projects\BasicShooterDemo\BasicShooterDemo\Intermediate\Build\Win64\UE4Editor\Development\BasicShooterDemo\BasicShooterDemoGameModeBase.cpp.obj"
+"D:\Unreal Projects\BasicShooterDemo\BasicShooterDemo\Intermediate\Build\Win64\UE4Editor\Development\BasicShooterDemo\BasicShooterDemo.init.gen.cpp.obj"
+"D:\Unreal Projects\BasicShooterDemo\BasicShooterDemo\Intermediate\Build\Win64\UE4Editor\Development\BasicShooterDemo\BasicShooterDemoGameModeBase.gen.cpp.obj"
+"D:\Unreal Projects\BasicShooterDemo\BasicShooterDemo\Intermediate\Build\Win64\UE4Editor\Development\BasicShooterDemo\Default.rc2.res"
+/OUT:"D:\Unreal Projects\BasicShooterDemo\BasicShooterDemo\Intermediate\Build\Win64\UE4Editor\Development\BasicShooterDemo\UE4Editor-BasicShooterDemo.lib"

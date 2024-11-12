@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Unreal Projects\\BasicShooterDemo\\BasicShooterDemo\\Source\\BasicShooterDemo\\BasicShooterDemo.Build.cs",
+		"D:\\Unreal Projects\\BasicShooterDemo\\BasicShooterDemo\\Source\\BasicShooterDemo.Target.cs",
+		"D:\\Unreal Projects\\BasicShooterDemo\\BasicShooterDemo\\Source\\BasicShooterDemoEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

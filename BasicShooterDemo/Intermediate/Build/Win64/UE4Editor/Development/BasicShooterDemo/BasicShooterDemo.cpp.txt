@@ -1,0 +1,2 @@
+D:\Unreal Projects\BasicShooterDemo\BasicShooterDemo\Intermediate\Build\Win64\UE4Editor\Development\BasicShooterDemo\Definitions.BasicShooterDemo.h
+D:\Unreal Projects\BasicShooterDemo\BasicShooterDemo\Source\BasicShooterDemo\BasicShooterDemo.h
